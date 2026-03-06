@@ -17,3 +17,9 @@
 # Windows files
 Thumbs.db
 Desktop.ini
+
+.vscode/
+.alpackages/
+
+.vscode/*
+!.vscode/launch.json
