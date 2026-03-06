@@ -1,0 +1,19 @@
+# AL packages
+.alpackages/
+
+# VS Code cache
+.vscode/.alcache/
+
+# RAD files
+.vscode/rad.json
+
+# Build output
+*.app
+
+# Temporary files
+*.tmp
+*.log
+
+# Windows files
+Thumbs.db
+Desktop.ini
